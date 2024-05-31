@@ -4,13 +4,9 @@ class Solution {
         int num=arr.length;
         if(num!=m*n)
           return new int[0][0];
-          int k=0;
-        for(int i=0;i<m;i++)
+        for(int i=0;i<num;i++)
         {
-            for(int j=0;j<n;j++)
-            {
-            ans[i][j]=arr[k++]; 
-            }
+            ans[i / n][i % n] = arr[i];
         }
         return ans;
     }
