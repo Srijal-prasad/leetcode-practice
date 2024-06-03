@@ -5,6 +5,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1675-magnetic-force-between-two-balls) |
@@ -18,6 +19,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0075-sort-colors) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -34,4 +36,5 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0075-sort-colors) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1675-magnetic-force-between-two-balls) |
