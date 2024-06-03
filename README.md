@@ -7,12 +7,14 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 | ------- |
 | [0162-find-peak-element](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1675-magnetic-force-between-two-balls) |
 # Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0162-find-peak-element) |
 | [0483-smallest-good-base](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0483-smallest-good-base) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1675-magnetic-force-between-two-balls) |
 # Two Pointers
 |  |
 | ------- |
@@ -29,3 +31,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 |  |
 | ------- |
 | [0483-smallest-good-base](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0483-smallest-good-base) |
+# Sorting
+|  |
+| ------- |
+| [1675-magnetic-force-between-two-balls](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1675-magnetic-force-between-two-balls) |
