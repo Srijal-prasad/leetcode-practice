@@ -13,6 +13,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 | [0876-hand-of-straights](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1044-find-common-characters) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1675-magnetic-force-between-two-balls) |
+| [2784-power-of-heroes](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2784-power-of-heroes) |
 # Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 | ------- |
 | [0483-smallest-good-base](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0483-smallest-good-base) |
 | [0523-continuous-subarray-sum](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0523-continuous-subarray-sum) |
+| [2784-power-of-heroes](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2784-power-of-heroes) |
 # Sorting
 |  |
 | ------- |
@@ -50,6 +52,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 | [0147-insertion-sort-list](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0147-insertion-sort-list) |
 | [0876-hand-of-straights](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0876-hand-of-straights) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1675-magnetic-force-between-two-balls) |
+| [2784-power-of-heroes](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2784-power-of-heroes) |
 # Hash Table
 |  |
 | ------- |
@@ -70,3 +73,8 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0523-continuous-subarray-sum) |
+| [2784-power-of-heroes](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2784-power-of-heroes) |
+# Dynamic Programming
+|  |
+| ------- |
+| [2784-power-of-heroes](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2784-power-of-heroes) |
