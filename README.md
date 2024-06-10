@@ -7,6 +7,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 | ------- |
 | [0075-sort-colors](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0162-find-peak-element) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0523-continuous-subarray-sum](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0648-replace-words](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0648-replace-words) |
@@ -20,6 +21,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0162-find-peak-element) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0483-smallest-good-base](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0483-smallest-good-base) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1675-magnetic-force-between-two-balls) |
@@ -87,3 +89,23 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1137-height-checker) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+# Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+# Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+# Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+# Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
