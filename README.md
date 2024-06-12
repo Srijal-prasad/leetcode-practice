@@ -47,6 +47,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 # Math
 |  |
 | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0483-smallest-good-base](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0483-smallest-good-base) |
 | [0523-continuous-subarray-sum](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0523-continuous-subarray-sum) |
 | [2784-power-of-heroes](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2784-power-of-heroes) |
@@ -87,6 +88,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 # Dynamic Programming
 |  |
 | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [2784-power-of-heroes](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2784-power-of-heroes) |
 # Counting Sort
 |  |
@@ -113,3 +115,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+# Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0357-count-numbers-with-unique-digits) |
