@@ -17,6 +17,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 | [1137-height-checker](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1217-relative-sort-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1675-magnetic-force-between-two-balls) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2784-power-of-heroes](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2784-power-of-heroes) |
 # Binary Search
 |  |
@@ -43,6 +44,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 | ------- |
 | [0409-longest-palindrome](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0876-hand-of-straights) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Math
 |  |
@@ -60,6 +62,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 | [1137-height-checker](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1217-relative-sort-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1675-magnetic-force-between-two-balls) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2784-power-of-heroes](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2784-power-of-heroes) |
 # Hash Table
 |  |
