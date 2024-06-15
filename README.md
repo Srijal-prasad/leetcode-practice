@@ -8,6 +8,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 | [0075-sort-colors](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0162-find-peak-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0502-ipo](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0648-replace-words](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0648-replace-words) |
@@ -44,6 +45,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -60,6 +62,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 | ------- |
 | [0075-sort-colors](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0147-insertion-sort-list) |
+| [0502-ipo](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1137-height-checker) |
@@ -126,3 +129,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0357-count-numbers-with-unique-digits) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0502-ipo) |
