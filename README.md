@@ -8,6 +8,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 | [0075-sort-colors](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0162-find-peak-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0330-patching-array](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -44,6 +45,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0876-hand-of-straights) |
