@@ -29,11 +29,13 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0483-smallest-good-base](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0483-smallest-good-base) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0633-sum-of-square-numbers) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1675-magnetic-force-between-two-balls) |
 # Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -58,6 +60,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 | [0357-count-numbers-with-unique-digits](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0483-smallest-good-base](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0483-smallest-good-base) |
 | [0523-continuous-subarray-sum](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0633-sum-of-square-numbers) |
 | [2784-power-of-heroes](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2784-power-of-heroes) |
 # Sorting
 |  |
