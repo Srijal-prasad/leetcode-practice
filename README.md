@@ -20,6 +20,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 | [1044-find-common-characters](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1217-relative-sort-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2784-power-of-heroes](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2784-power-of-heroes) |
@@ -32,6 +33,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 | [0540-single-element-in-a-sorted-array](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1675-magnetic-force-between-two-balls) |
 # Two Pointers
 |  |
