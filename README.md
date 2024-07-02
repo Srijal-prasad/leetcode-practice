@@ -207,3 +207,26 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1916-find-center-of-star-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2379-maximum-total-importance-of-roads) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
+<!---LeetCode Topics End-->
