@@ -244,4 +244,9 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2645-pass-the-pillow) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
