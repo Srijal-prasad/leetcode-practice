@@ -243,10 +243,12 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2645-pass-the-pillow) |
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
