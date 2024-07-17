@@ -213,6 +213,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1803-average-waiting-time) |
@@ -224,6 +225,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0726-number-of-atoms) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
@@ -292,15 +294,18 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 ## Tree
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
