@@ -216,6 +216,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 | [0870-magic-squares-in-grid](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0948-sort-an-array) |
+| [0999-regions-cut-by-slashes](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1333-sort-the-jumbled-numbers) |
@@ -243,6 +244,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -354,6 +356,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 ## Depth-First Search
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -362,6 +365,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2472-build-a-matrix-with-conditions) |
@@ -418,6 +422,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 ## Breadth-First Search
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0999-regions-cut-by-slashes) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
 |  |
@@ -427,4 +432,8 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
