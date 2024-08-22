@@ -493,4 +493,8 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1240-stone-game-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
