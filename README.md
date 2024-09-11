@@ -555,6 +555,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0476-number-complement) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Number Theory
 |  |
 | ------- |
