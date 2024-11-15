@@ -245,6 +245,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -333,6 +334,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 | [0567-permutation-in-string](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -347,6 +349,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 | [0729-my-calendar-i](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Srijal-prasad/leetcode-practice/tree/master/0731-my-calendar-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -519,6 +522,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 | [1197-parsing-a-boolean-expression](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -806,6 +810,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1002-maximum-width-ramp) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Enumeration
 |  |
 | ------- |
