@@ -260,6 +260,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 | [1923-sentence-similarity-iii](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1972-rotating-the-box](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -345,6 +346,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1923-sentence-similarity-iii) |
+| [1972-rotating-the-box](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -600,6 +602,7 @@ Welcome to my LeetCode practice repository! This repo contains my solutions to v
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1972-rotating-the-box](https://github.com/Srijal-prasad/leetcode-practice/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Srijal-prasad/leetcode-practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
